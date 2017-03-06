@@ -15,7 +15,7 @@ require 'menu.php';
 				$message = strip_tags(htmlspecialchars($_POST['message']));
 
 				$to = '';
-				$email_subject = "La Valse Blanche ($option)";
+				$email_subject = "($option)";
 				$email_body = "Votre Site a du succès!\n\n"."Message de la part de: $name\n\nLui répondre via: $email\n\n\n$message";
 				$headers = "From: La Valse Blanche <noreply@lavalseblanche.fr>\n";
 				$headers .= "Reply-To: $email";

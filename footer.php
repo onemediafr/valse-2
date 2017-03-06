@@ -33,4 +33,5 @@
 <script type="text/javascript" src="js/jquery.elastislide.js"></script>
 <script type="text/javascript" src="js/gallery.js"></script>
 </body>
+
 </html>

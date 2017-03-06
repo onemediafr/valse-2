@@ -1,7 +1,3 @@
-.container-fluid {
-    height: 100%;
-}
-
 .row {
     padding: 0;
     margin: 0;
@@ -213,6 +209,7 @@ h1:hover {
 
 .fond_robe {
     background: url(../images/texture.png);
+/*    background: url(../images/fond-2.png);*/
 }
 
 #sous_titre {
@@ -223,6 +220,17 @@ h1:hover {
     text-align: center; 
     padding-top: 3%;
     padding-bottom: 3%;
+}
+
+#mini_titre{
+     font-size: 1.5vw;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    background-color: rgba(67, 44, 44, 0.4);
+    padding: 3.5%;
+    border-radius: 9px;
 }
 
 #myGallery {
@@ -244,36 +252,13 @@ h1:hover {
     font-size: 0.7em;
     margin: 0;
     color: black;
-    padding-bottom: 9.45%;
-    padding-top: 9.45%;
+    padding-bottom: 9.42%;
+    padding-top: 9.42%;
 }
 
 
-/*
-footer {
-    top: 170%;
-    position: absolute;
-    z-index: 0;
-}
-*/
-
-/*
-@media screen and (max-width:1200px) {vfhe
-    footer {
-        margin-top: 165%;
-    }
-}
-#footer2 {
-    top: 165%;
-    position: absolute;
-    z-index: 0;
-}
-*/
 
 @media screen and (max-width:1200px) {
-    #footer2 {
-        margin-top: 165%;
-    }
     h1{
         padding-top: 3.5%;
         padding-bottom: 3.5%;
@@ -298,18 +283,8 @@ footer {
     height: 1418px;
 }
 
-form {
-    padding-top: 2%;
-}
 
-.btn {
-    margin-top: 2%;
-}
 
-#bouton {
-   
-   padding: 4%;
-}
 
 
 /*responsive i frame*/
@@ -418,4 +393,18 @@ label{
         padding-top: 8%;
     }
     
+}
+.base li{
+    padding: 0;
+}
+#hauteur{
+    height: 1000px;
+}
+
+.test{
+    text-align-last: center;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    height: 38px;
+    padding: 0;
 }

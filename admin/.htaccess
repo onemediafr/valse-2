@@ -1,0 +1,4 @@
+AuthUserFile /home/lavalsebzx/www/admin/.htpasswd
+AuthName "Acces admin" 
+AuthType Basic
+require valid-user

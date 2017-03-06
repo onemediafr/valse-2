@@ -31,6 +31,7 @@
         ga('create', 'UA-93097720-1', 'auto');
         ga('send', 'pageview');
     </script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body class="fond_robe">
 <?php require_once 'analyticstracking.php'; ?>

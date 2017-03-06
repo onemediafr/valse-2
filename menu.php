@@ -50,9 +50,9 @@
           <li class="col-lg-12 hidden-md hidden-sm hidden-xs"><a style="cursor:default;" id="menu">Newsletter</a>
             <ul>
                 <li>
-                    <form >
+                    <form method="POST" action="add-newsletter.php">
                         <div style="padding-top:10px; padding-bottom: 10px;" class="col-xs-10 col-xs-offset-1 form-group">
-                            <input type="email" class="  test form-control" id="email"  placeholder="Entrez votre mail">
+                            <input type="email" class="test form-control" id="email" name="email" placeholder="Entrez votre mail">
                             <div>
                                 <button style="background-color: rgba(67, 44, 44, 1); color: white; padding-left:0; padding-right:0;" type="submit" class="col-xs-12 btn btn-default">ENVOYER</button>
                             </div>

@@ -1,3 +1,3 @@
- <?php require 'header-index.php'; ?>
-    <?php require 'menu.php'; ?>
-
+<?php
+require 'header-index.php';
+require 'menu.php';

@@ -1,5 +1,5 @@
 <?php require 'header.php';?>
-<?php require 'menu.php'?>
+<?php require 'menu.php';?>
 
 
 <div class="col-lg-8 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">

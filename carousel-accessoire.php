@@ -5,16 +5,16 @@
                    <h2 id="sous_titre">Les accessoires</h2><br>
                     <ul>
                         <li>
-                            <img data-large="images/IMG_0318.jpg" />
+                            <img data-large="images/IMG_0318.JPG" />
                         </li>
                         <li>
-                            <img  data-large="images/IMG_0740.jpg" />
+                            <img  data-large="images/IMG_0740.JPG" />
                         </li>
                         <li>
-                            <img data-large="images/IMG_8812.jpg" />
+                            <img data-large="images/IMG_8812.JPG" />
                         </li>
                         <li>
-                            <img  data-large="images/IMG_8814.jpg" />
+                            <img  data-large="images/IMG_8814.JPG" />
                         </li>
                     </ul>
                 </div>

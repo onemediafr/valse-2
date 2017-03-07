@@ -254,15 +254,23 @@ h1:hover {
     padding-top: 6%;
 }
 
-#menu:hover, #menu2:hover {
+#menu-accordeon li #news{
+    margin: 0;
+    color: black;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+#menu:hover, #menu2:hover, #news:hover {
     color: white;
 }
 #menu2 {
     font-size: 0.7em;
     margin: 0;
     color: black;
-    padding-bottom: 9.42%;
-    padding-top: 9.42%;
+    padding-bottom: 4.5%;
+    padding-top: 4.5%;
 }
 
 
@@ -271,6 +279,10 @@ h1:hover {
     h1{
         padding-top: 3.5%;
         padding-bottom: 3.5%;
+    }
+    #menu2{
+        padding-top: 9%;
+        padding-bottom: 9%;
     }
 }
 
@@ -401,6 +413,13 @@ label{
     }#jsp{
         padding-top: 8%;
     }
+    #menu-accordeon li #news{
+    margin: 0;
+    color: black;
+    padding-bottom: 7.5%;
+    padding-top: 7.5%;
+    text-align: center;
+}
     
 }
 .base li{

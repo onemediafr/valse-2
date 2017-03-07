@@ -65,8 +65,7 @@ require 'menu.php';
             <h2 id="sous_titre">N'y allez pas par quatre chemins</h2>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2741.296629724735!2d4.059068515595887!3d46.60114057913087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f3d0a90a3baa0d%3A0xecf4cd8fc32f246f!2s9+Rue+Jean+Jaur%C3%A8s%2C+71130+Gueugnon!5e0!3m2!1sfr!2sfr!4v1486738730115" width="600" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
-        <br>
-        <br>
+        <br><br>
         <h2 id="sous_titre">Contactez nous !</h2>
         <form id="base" class="boutvert col-lg-12" method="POST" action="contact.php">
             <legend id="lik">J'aimerais</legend>
@@ -76,16 +75,11 @@ require 'menu.php';
                 <option value="Être contacté(e)">Être contacté(e)</option>
                 <option value="Prendre un rendez-vous">Prendre un rendez-vous</option>
                 <option value="Vous épouser !">Vous épouser !</option>
-            </select>
-            <br>
-            <input type="text" class="form-control" name="name" placeholder="Votre nom">
-            <br>
-            <input type="text" class="form-control" name="email" placeholder="Votre mail" required>
-            <br>
-            <textarea id="textarea" class="form-control" rows="8" name="message" placeholder="Tapez votre texte ici"></textarea>
-            <br>
-            <div class="g-recaptcha" data-theme="dark" data-sitekey="6Lfh1hcUAAAAAL-K59V8dFAdma18xQVk1eKIgAxD"></div>
-            <br>
+            </select><br>
+            <input type="text" class="form-control" name="name" placeholder="Votre nom"><br>
+            <input type="text" class="form-control" name="email" placeholder="Votre mail" required><br>
+            <textarea id="textarea" class="form-control" rows="8" name="message" placeholder="Tapez votre texte ici"></textarea><br>
+            <div class="g-recaptcha" data-theme="dark" data-sitekey="6Lfh1hcUAAAAAL-K59V8dFAdma18xQVk1eKIgAxD"></div><br>
             <button type="submit" class="btn btn-success">Envoyer</button>
         </form>
         <br>

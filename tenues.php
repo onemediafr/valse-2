@@ -1,4 +1,5 @@
-<?php require 'header.php';?>
-<?php require 'menu.php';?>
-<?php require 'carousel-tenue-homme.php';?>
-<?php require 'footer.php';?>
+<?php
+require 'header.php';
+require 'menu.php';
+require 'carousel-tenue-homme.php';
+require 'footer.php';

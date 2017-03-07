@@ -1,7 +1,5 @@
-<?php require 'header.php';?>
-
-<?php require 'menu.php';?> 
-
-<?php require 'carousel-accessoire.php';?>
-
-<?php require 'footer.php';?>
+<?php
+require 'header.php';
+require 'menu.php';
+require 'carousel-accessoire.php';
+require 'footer.php';?>

@@ -1,13 +1,5 @@
 <?php
-
 require 'header.php';
-
-?>
-
-       <?php require 'menu.php';?>
-
- <?php require 'carousel-chemise-homme.php';?>
- 
-<?php
-
+require 'menu.php';
+require 'carousel-chemise-homme.php';
 require 'footer.php';

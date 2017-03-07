@@ -1,12 +1,5 @@
 <?php
-
 require 'header.php';
-
-?>
-<?php require 'menu.php';?>
-
- <?php require 'carousel-robe-mariee.php';?>
-
-<?php
-
+require 'menu.php';
+require 'carousel-robe-mariee.php';
 require 'footer.php';

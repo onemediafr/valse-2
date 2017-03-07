@@ -1,13 +1,5 @@
 <?php
-
 require 'header.php';
-
-?>
-       <?php require 'menu.php';?>
-       
-       
-<?php require 'carousel-robe-cerem-enfant.php';?>
-
-<?php
-
-require 'footer.php';?>
+require 'menu.php';
+require 'carousel-robe-cerem-enfant.php';
+require 'footer.php';

@@ -140,7 +140,7 @@
     </div>
     
     
-    <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:900px;height:600px;overflow:hidden;visibility:hidden;">
+ <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:960px;height:580px;overflow:hidden;visibility:hidden;">
        
        
        
@@ -152,6 +152,21 @@
                 <img data-u="image" src="images/IMG_0877.jpg" />
             </div>
             
+            <div>
+                <img data-u="image" src="images/17.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/18.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/19.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/20.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/22.jpg" />
+            </div>
         </div>
         
         

@@ -140,7 +140,7 @@
     </div>
     
     
-    <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:900px;height:600px;overflow:hidden;visibility:hidden;">
+  <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:960px;height:580px;overflow:hidden;visibility:hidden;">
        
        
        
@@ -151,7 +151,9 @@
             <div>
                 <img data-u="image" src="images/IMG_8815.jpg" />
             </div>
-            
+            <div>
+                <img data-u="image" src="images/15.jpg" />
+            </div>
         </div>
         
         

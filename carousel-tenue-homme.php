@@ -149,7 +149,7 @@
                 <img data-u="image" src="images/7.jpg" />
             </div>
             <div>
-                <img data-u="image" src="images/IMG_0867.JPG" />
+                <img data-u="image" src="images/IMG_0867.jpg" />
             </div>
              <div>
                 <img data-u="image" src="images/9.jpg" />
